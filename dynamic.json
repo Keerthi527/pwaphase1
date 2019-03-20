@@ -1,0 +1,50 @@
+{
+  "basics":
+  {
+    "img":"images/teddy.jfif","name":"keerthi","email":"keerthi2000@gmail.com","job":"Software engineer"
+  },
+  "career":
+  {
+    "info":"To work in an environment where i can utilize my skills and knowledge"
+  },
+  "education":
+  [
+    {
+      "sno":"1",
+      "degree":"b.tech",
+      "institute":"mits",
+      "per":"85",
+      "yop":"2021"
+    },
+    {
+      "sno":"2",
+      "degree":"inter",
+      "institute":"sri chaitanya",
+      "per":"90",
+      "yop":"2017"
+    },
+    {
+      "sno":"3",
+      "degree":"ssc",
+      "institute":"vincemt",
+      "per":"95",
+      "yop":"2015"
+    }
+  ],
+  "skills":
+  [
+    {
+      "skills":"c"
+
+    },
+    {
+      "skills":"c++"
+    },
+    {
+      "skills":"java"
+    },
+    {
+      "skills":"python"
+    }
+  ]
+}
